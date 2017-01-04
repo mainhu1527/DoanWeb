@@ -24,15 +24,19 @@
 <script src="js/main.js"></script>
 </head>
 <body>
- <div class="wrap">	
-	<div class="main">
-	<img src="images/home/logo1.png" class="logo1 img-responsive" alt="" />
-    <div class="content padding-bottom">
-    	<p>Eshopper chuyên kinh doanh sỉ và lẻ các mặt hàng thời trang trên Toàn Quốc với giá cả và chất lượng cạnh tranh nhất.</p>
-		<p>Đến với Eshopper, các bạn có thể dễ dàng lựa chọn cho mình những bộ cánh thời trang được yêu thích nhất hiện nay cho giới trẻ hiện nay.</p>
-		<p>Với phong cách phục vụ khách hàng thân thiện, tư vấn chu đáo, sản phẩm có giá cạnh tranh phù hợp túi tiền mang đến sự hài lòng cho quí khách hàng khi đến với Shop.</p>
-    </div>
- </div>
-</div>
+	<div class="container">
+		<row>
+			<div class="col-sm-4">
+				<img src="images/home/logo1.png" class="logo1 img-responsive" alt="" />
+			</div>
+			<div class="col-sm-7">
+				<div class="margin-top-100"
+					<p>Eshopper chuyên kinh doanh sỉ và lẻ các mặt hàng thời trang trên Toàn Quốc với giá cả và chất lượng cạnh tranh nhất.</p>
+					<p>Đến với Eshopper, các bạn có thể dễ dàng lựa chọn cho mình những bộ cánh thời trang được yêu thích nhất hiện nay cho giới trẻ hiện nay.</p>
+					<p>Với phong cách phục vụ khách hàng thân thiện, tư vấn chu đáo, sản phẩm có giá cạnh tranh phù hợp túi tiền mang đến sự hài lòng cho quí khách hàng khi đến với Shop.</p>
+				</div>
+			</div>
+		</row>
+	</div>
 </body>
 </html>
