@@ -46,6 +46,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<img src="images/home/vanchuyen.jpg" class="logo1 img-responsive" alt="" />
 				</div>
 				<div class="col-sm-7">
+					<div class="margin-top-100">
 					<p><h1>
 						<div class=" fa fa-hand-o-right"> Đặt hàng online
 					</h1></p>
